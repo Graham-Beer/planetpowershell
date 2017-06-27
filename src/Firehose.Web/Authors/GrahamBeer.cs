@@ -15,7 +15,7 @@ namespace Firehose.Web.Authors
         public string EmailAddress => "Graham.Beer@DTLK.co.uk";
         public string TwitterHandle => "GKBeer";
         public string GitHubHandle => "Graham-Beer";
-        public string GravatarHash => "159bdc93f5c3783799b4d298d6d87dde";
+        public string GravatarHash => "27d2592f62f63479cac9314da41f9af1";
         public GeoPosition Position => new GeoPosition(50.7167, -1.8833);
 
         public Uri WebSite => new Uri("https://graham-beer.github.io/#blog");
