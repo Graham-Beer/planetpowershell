@@ -10,7 +10,7 @@ namespace Firehose.Web.Authors
     {
         public string FirstName => "Graham";
         public string LastName => "Beer";
-        public string ShortBioOrTagLine => "System Engineer, PowerShell, WinOps and SCCM who is a huge automation fan!";
+        public string ShortBioOrTagLine => "System Engineer, PowerShell Developer, WinOps and a huge automation fan";
         public string StateOrRegion => "Southampton, UK";
         public string EmailAddress => "Graham.Beer@DTLK.co.uk";
         public string TwitterHandle => "GKBeer";
